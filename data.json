@@ -1,0 +1,11 @@
+{
+    "show_rate": 0.5,
+    "ads": [
+            {
+              "text": "Try our new game\nHex Arrows",
+              "url": "https://play.google.com/store/apps/details?id=info.bppacomics.puzzles",
+              "image": "https://play-lh.googleusercontent.com/GMkMlfCvu1HozE8HX1OJU20F48Ok4qLjij7jqvRxK7yZ8brckh0rVVpMHWVsimLR0DOoNihs_Ga6Cp52oB3JSuY=w480-h960-rw",
+              "exclude": "puzzles"
+            }
+        ]
+}
