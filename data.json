@@ -11,7 +11,7 @@
               "text": "Probiere unser Deutschland\nGeographie Quiz",
               "url": "https://play.google.com/store/apps/details?id=info.bppacomics.german_states",
               "image": "https://ih-apps.github.io/ads/images/german-states.png",
-              "exclude": "puzzles"
+              "exclude": "german"
             },
         ]
 }
