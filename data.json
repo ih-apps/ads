@@ -1,11 +1,17 @@
 {
-    "show_rate": 0.1,
+    "show_rate": 0.5,
     "ads": [
             {
               "text": "Probiere unser Deutschland\nGeographie Quiz",
               "url": "https://play.google.com/store/apps/details?id=info.bppacomics.german_states",
               "image": "https://ih-apps.github.io/ads/images/german-states.png",
               "exclude": "german_states"
+            },
+            {
+              "text": "Try our cursive\nlearning app",
+              "url": "https://play.google.com/store/apps/details?id=info.bppacomics.cursive",
+              "image": "https://ih-apps.github.io/ads/images/cursive.png",
+              "exclude": "cursive lazy"
             }
         ]
 }
